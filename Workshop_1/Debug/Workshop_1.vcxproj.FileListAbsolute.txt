@@ -1,0 +1,2 @@
+C:\Users\lwiny\Documents\oop244\Workshop_1\Debug\Workshop_1.exe
+C:\Users\lwiny\Documents\oop244\Workshop_1\Debug\Workshop_1.pdb
