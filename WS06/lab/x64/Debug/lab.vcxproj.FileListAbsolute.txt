@@ -1,0 +1,2 @@
+C:\Users\lwiny\Documents\OOP224_class\OOP-Workshops\WS06\lab\x64\Debug\lab.exe
+C:\Users\lwiny\Documents\OOP224_class\OOP-Workshops\WS06\lab\x64\Debug\lab.pdb
