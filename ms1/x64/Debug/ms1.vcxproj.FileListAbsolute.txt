@@ -1,0 +1,2 @@
+C:\Users\lwiny\Documents\OOP224_class\BTP-Project\ms1\x64\Debug\ms1.exe
+C:\Users\lwiny\Documents\OOP224_class\BTP-Project\ms1\x64\Debug\ms1.pdb
