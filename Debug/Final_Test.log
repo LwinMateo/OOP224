@@ -1,0 +1,13 @@
+﻿  Car.cpp
+C:\Users\lwiny\source\repos\Final_Test\RaceCar.h(8,2): error C2504: 'Car': base class undefined
+  Final.cpp
+C:\Users\lwiny\source\repos\Final_Test\RaceCar.h(8,2): error C2504: 'Car': base class undefined
+  RaceCar.cpp
+C:\Users\lwiny\source\repos\Final_Test\RaceCar.h(8,2): error C2504: 'Car': base class undefined
+C:\Users\lwiny\source\repos\Final_Test\RaceCar.cpp(12,79): error C2614: 'sdds::RaceCar': illegal member initialization: 'Car' is not a base or member
+C:\Users\lwiny\source\repos\Final_Test\RaceCar.cpp(24,41): error C2614: 'sdds::RaceCar': illegal member initialization: 'Car' is not a base or member
+C:\Users\lwiny\source\repos\Final_Test\RaceCar.cpp(32,17): error C2440: 'type cast': cannot convert from 'sdds::RaceCar' to 'sdds::Car'
+C:\Users\lwiny\source\repos\Final_Test\RaceCar.cpp(32,17): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\lwiny\source\repos\Final_Test\RaceCar.cpp(45,8): error C2352: 'sdds::Car::display': illegal call of non-static member function
+C:\Users\lwiny\source\repos\Final_Test\Car.h(18): message : see declaration of 'sdds::Car::display'
+  Generating Code...

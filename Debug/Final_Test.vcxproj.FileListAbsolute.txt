@@ -1,0 +1,2 @@
+C:\Users\lwiny\source\repos\Final_Test\Debug\Final_Test.exe
+C:\Users\lwiny\source\repos\Final_Test\Debug\Final_Test.pdb
